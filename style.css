@@ -12,8 +12,13 @@ h1 {
 }
 
 h2 {
-    color: #d77100;
+    color: #d77c99;
 }
+a {
+    text-decoration: none; /* Elimina el subrayado */
+    color: inherit; /* Hereda el color del texto de su contenedor */
+}
+
 
 .container {
     max-width: 600px;
