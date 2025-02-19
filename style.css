@@ -16,7 +16,7 @@ h2 {
 }
 a {
     text-decoration: none; /* Elimina el subrayado */
-    color: inherit; /* Hereda el color del texto de su contenedor */
+    color: #333; /* Hereda el color del texto de su contenedor */
 }
 
 
